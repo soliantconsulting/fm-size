@@ -1,0 +1,10 @@
+#,db,#,table,size,units,percent_of_db,percent_of_total
+1,Ooe,1,TestTable,11847,bytes,0.97764,0.16398
+1,Ooe,2,Contacts,271,bytes,0.02236,0.00375
+1,Ooe,3,blank,0,bytes,0,0
+1,Ooe,4,SaXMLDelivery,0,bytes,0,0
+2,Assets,1,Assets,60127,bytes,1,0.83227
+2,Assets,2,History,0,bytes,0,0
+3,BrojDva,1,blank,0,bytes,0,0
+3,BrojDva,2,Invoice,0,bytes,0,0
+3,BrojDva,3,SaXMLDelivery,0,bytes,0,0

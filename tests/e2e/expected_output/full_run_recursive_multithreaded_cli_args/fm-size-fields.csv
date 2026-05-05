@@ -1,0 +1,129 @@
+#,db,#,table,#,field,field_bytes,value_index_bytes,word_index_bytes,fmsize_ver,fmdevtool_ver
+1,Ooe,1,TestTable,1,TextField1,6644,225,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,2,ContainerField1,5080,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,3,ID,72,148,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,4,CreationTimestamp,39,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,5,CalcField1_c,6,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,6,TextField_lotsTurnedOn,6,12,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,7,MyGlobal_g,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,8,SummaryField1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,9,TimestampField1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,10,TimeField1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,11,ContactNameList_u,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,12,ContainerField1_RC,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,13,DateField1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,14,ContainerField1_RC_dynamicPath,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,15,NumberField1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,16,KeepThisBlank,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,17,SerialNumberOnCreateIncBy1,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,18,SerialNumberOnCommitIncBy10,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,19,Lookup0_default,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,20,Lookup1_copy_empty,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,21,Lookup2_copy_empty_on_no_match_copy_next_lower_value,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,22,Lookup3_copy_empty_on_no_match_copy_next_higher_value,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,23,Lookup4_copy_empty_on_no_match_use_blank,0,0,0,<VERSION>,<VERSION>
+1,Ooe,1,TestTable,24,Lookup5_copy_empty_on_no_match_use_value,0,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,1,ID,108,222,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,2,CreationTimestamp,57,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,3,ModificationTimestamp,57,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,4,Name,19,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,5,CreatedBy,15,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,6,ModifiedBy,15,0,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,7,ID_TestTable,0,6,0,<VERSION>,<VERSION>
+1,Ooe,2,Contacts,8,OrderOfOperationsTest_u,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,1,recordId,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,2,modAccount,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,3,modTimestamp,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,4,notes,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,5,sizeInBytes,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,6,timeToCreate,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,7,xmlFile,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,8,createAccount,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,9,createTimestamp,0,0,0,<VERSION>,<VERSION>
+1,Ooe,3,SaXMLDelivery,10,timeToUpload,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,1,File 3 Container,5826,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,2,File 5 Container,5774,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,3,File 1 Container,5742,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,4,Notes,5683,11566,4142,<VERSION>,<VERSION>
+2,Assets,1,Assets,5,File 4 Container,5628,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,6,File 2 Container,5565,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,7,Selected File,2400,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,8,Modified Timestamp,2000,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,9,Model,1576,3328,2366,<VERSION>,<VERSION>
+2,Assets,1,Assets,10,Signature Container,1400,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,11,Assignment Status,1200,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,12,Reviewed By,1200,42,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,13,Assigned To,1200,42,58,<VERSION>,<VERSION>
+2,Assets,1,Assets,14,Category,1103,154,166,<VERSION>,<VERSION>
+2,Assets,1,Assets,15,Location,1100,40,56,<VERSION>,<VERSION>
+2,Assets,1,Assets,16,Date Checked In,918,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,17,Date Due,916,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,18,Date Reviewed,913,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,19,Date Checked Out,911,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,20,Date Due Popver,906,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,21,Internal ID,901,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,22,In Service Date,901,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,23,Certification,900,0,36,<VERSION>,<VERSION>
+2,Assets,1,Assets,24,Date Checked Out Popover,899,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,25,Purchased Date,892,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,26,Date Created,889,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,27,Item,889,1906,1906,<VERSION>,<VERSION>
+2,Assets,1,Assets,28,Modified by User,600,30,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,29,Condition,400,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,30,Serial Number,290,798,798,<VERSION>,<VERSION>
+2,Assets,1,Assets,31,ASSET ID MATCH FIELD,192,401,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,32,Cost,110,176,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,33,Depreciation Years,103,176,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,34,Count Charts,100,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,35,Certified Timestamp,100,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,36,Status Order,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,37,Status Filter,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,38,Signature Label Placeholder,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,39,Year Remaining Label Plural,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,40,Result Label Plural,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,41,Sort List Key,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,42,Status,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,43,Days Till Due iOS,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,44,Sort Selection,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,45,Selected File Container,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,46,QuickFind | iOS,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,47,Days Till Due,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,48,Verbose Status,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,49,Total Depreciation,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,50,Selected File Placeholder,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,51,Depreciation Value,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,52,Total Book Value,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,53,Remaining Years,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,54,Book Value,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,55,Count Summary Chart,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,56,Purchased From,0,18,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,57,Total Cost,0,0,0,<VERSION>,<VERSION>
+2,Assets,1,Assets,58,UserInput_g,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,1,ASSET ID MATCH FIELD,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,2,Date,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,3,Assigned To,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,4,Condition,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,5,Verbose Status,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,6,Verbose Condition,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,7,Location,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,8,Due Date,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,9,Creation Timestamp,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,10,Reviewed by,0,0,0,<VERSION>,<VERSION>
+2,Assets,2,History,11,Icon,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,1,PrimaryKey,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,2,CreationTimestamp,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,3,CreatedBy,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,4,ModificationTimestamp,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,5,ModifiedBy,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,6,InvoiceNumber,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,1,Invoice,7,InvoiceDate,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,1,recordId,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,2,modAccount,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,3,modTimestamp,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,4,notes,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,5,sizeInBytes,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,6,timeToCreate,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,7,xmlFile,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,8,createAccount,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,9,createTimestamp,0,0,0,<VERSION>,<VERSION>
+3,BrojDva,2,SaXMLDelivery,10,timeToUpload,0,0,0,<VERSION>,<VERSION>

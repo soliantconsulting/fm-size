@@ -1,0 +1,23 @@
+{
+  "fmdevtool_path": "FMDeveloperTool",
+  "databases": [
+    {
+      "path_to_db": "tests/fixtures/no_errors/Ooe.fmp12",
+      "account_name": "admin",
+      "password": "admin",
+      "ear_key": null
+    },
+    {
+      "path_to_db": "tests/fixtures/no_errors/BrojDva.fmp12",
+      "account_name": "admin",
+      "password": "admin",
+      "ear_key": "admin"
+    },
+    {
+      "path_to_db": "tests/fixtures/no_errors/subfolder/Assets.fmp12",
+      "account_name": "admin",
+      "password": "admin",
+      "ear_key": null
+    }
+  ]
+}

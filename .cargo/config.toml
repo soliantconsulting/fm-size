@@ -1,0 +1,14 @@
+# Mac-specific linker settings for cross-compilation
+
+[target.x86_64-unknown-linux-gnu]
+linker = "x86_64-unknown-linux-gnu-gcc"
+
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
+
+# Native macOS targets (no linker needed)
+
+[target.x86_64-apple-darwin]
+
+[target.aarch64-apple-darwin]
+
